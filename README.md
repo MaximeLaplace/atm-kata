@@ -1,9 +1,3 @@
-# js-kata-starter
+# atm-kata
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+Implementation of the logic of an ATM using TDD
